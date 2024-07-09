@@ -48,16 +48,18 @@ retrying
 ```
 
 <h3>Usage</h3>
+
 <ul>
 <ol>Clone the Repository:</ol>
 <br>
 
 ```bash
-git clone [<repository-url>](https://github.com/Bikas0/Contract-Compliance-Analyzer-with-Azure-openai-model.git)
+git clone https://github.com/Bikas0/Contract-Compliance-Analyzer-with-Azure-openai-model.git
 cd Contract-Compliance-Analyzer-with-Azure-openai-model
 ```
 
 <ol>Set Up Environment Variables:</ol>
+
 <ul>
   <li>Create a .env file in the root directory of the project.</li>
   <li>Add your Azure OpenAI API key to the .env file:</li>
