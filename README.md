@@ -68,7 +68,7 @@ cd Contract-Compliance-Analyzer-with-Azure-openai-model
 ```
 <ol>Run the Application:</ol>
 <ul>
-  <ol>Streamlit:</ol>
+  <li>Streamlit:</li>
 </ul>
 
 ```bash
