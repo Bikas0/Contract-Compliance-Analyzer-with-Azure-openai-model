@@ -49,7 +49,6 @@ retrying
 
 <h3>Usage</h3>
 
-<ul>
 <ol>Clone the Repository:</ol>
 <br>
 
@@ -64,7 +63,7 @@ cd Contract-Compliance-Analyzer-with-Azure-openai-model
   <li>Create a .env file in the root directory of the project.</li>
   <li>Add your Azure OpenAI API key to the .env file:</li>
 </ul>
-
+<br>
 ```bash
  AZURE_OPENAI_API_KEY=your_azure_openai_api_key
 ```
@@ -77,7 +76,6 @@ cd Contract-Compliance-Analyzer-with-Azure-openai-model
 streamlit run app.py
 ```
 
-</ul>
 
 <h2>Functionality</h2>
 <h3>Conditions Extraction</h3>
