@@ -1,7 +1,7 @@
 <h1>🧠Compliance Contract Analyzer🧠</h1>
 This project is a Compliance Contract Analyzer that uses Azure OpenAI to extract key terms and conditions from contract texts and verify task descriptions for compliance with these conditions. It provides a user interface for uploading documents and task tables, analyzing them, and displaying the results.
 <h2>Deployed in 🤗Huggingface</h2>
-<a href="[https://www.example.com](https://huggingface.co/spaces/Bikas0/Contract-Conditions-Extraction-and-Verification)" target="_blank">🌐Contract Conditions Extraction & Verification</a>
+<a href="https://huggingface.co/spaces/Bikas0/Contract-Conditions-Extraction-and-Verification" target="_blank">🌐Contract Conditions Extraction & Verification</a>
 <br>
 <h2>Features</h2>
 <ul>
@@ -68,7 +68,7 @@ cd Contract-Compliance-Analyzer-with-Azure-openai-model
 ```
 <ol>Run the Application:</ol>
 <ul>
-  <li>Streamlit:</li>
+  <ol>Streamlit:</ol>
 </ul>
 
 ```bash
