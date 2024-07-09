@@ -110,7 +110,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 <h2>License</h2>
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 
 
