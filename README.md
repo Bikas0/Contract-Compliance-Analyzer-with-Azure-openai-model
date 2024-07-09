@@ -39,12 +39,10 @@ The requirements.txt includes the following packages:
 ```bash
 openai==1.1.2
 python-dotenv
-flask
 python-docx
 pandas
 streamlit
 openpyxl
-retrying
 ```
 
 <h3>Usage</h3>
